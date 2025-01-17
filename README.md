@@ -65,6 +65,7 @@
    <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Frameworks</h3>
+    <img align="center" alt="Django" height="35" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
     <img align="center" alt="Spring" height="35" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   </div>
 
