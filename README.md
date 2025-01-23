@@ -59,7 +59,7 @@
     <img align="center" alt="Ubuntu" height="35" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <img align="center" alt="Windows" height="35" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img align="center" alt="Notion" height="35" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    <img align="center" alt="" height="35" src="">
+    <img align="center" alt="Fedora" height="35" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   </div>
 
    <!-- Skills: Tools & Frameworks -->
