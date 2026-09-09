@@ -21,6 +21,10 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=andpax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
+## ⚡ Atividade Recente:
+
+[![Anderson's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph?username=andpax&theme=rogue&hide_border=true)](https://github.com/andpax)
+
 <!-- Portfolio -->
 ## Portfolio:
 
