@@ -24,7 +24,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 
-- [VRUM - Sistema anti-fraude de histórico veicular (RAG + LLM)](https://github.com/andpax/)
+- [VRUM - Sistema anti-fraude de histórico veicular (RAG + LLM)](https://github.com/andpax/vrum)
 
 
 <!-- GIF -->
